@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6776a451-a83c-4693-93d8-821e755968b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/git.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/controller/IndexController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/controller/ArticleController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/controller/IndexController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/view/article/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/view/index/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/view/index/welcome.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hd/core/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hd/core/boot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hd/model/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hd/model/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hd/view/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hd/view/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/view/message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/view/welcome.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/config/prc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/model/Stu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -197,9 +171,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="774" />
+    <option name="x" value="475" />
+    <option name="y" value="14" />
     <option name="width" value="1252" />
-    <option name="height" value="1018" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -289,15 +264,15 @@
       <workItem from="1521787109707" duration="611000" />
       <workItem from="1521787757555" duration="21648000" />
       <workItem from="1521853707059" duration="1820000" />
-      <workItem from="1521864698924" duration="826000" />
+      <workItem from="1521864698924" duration="1235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65176000" />
+    <option name="totallyTimeSpent" value="65585000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="774" y="0" width="1252" height="1018" extended-state="0" />
+    <frame x="475" y="14" width="1252" height="1004" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27104378" sideWeight="0.49301398" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -306,7 +281,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23435722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8936416" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21060494" sideWeight="0.506986" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -354,7 +329,7 @@
         <state relative-caret-position="270">
           <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
-            <element signature="e#118#141#0#PHP" expanded="true" />
+            <element signature="e#118#141#0#PHP" expanded="false" />
             <marker date="1521811715417" expanded="true" signature="1122:1143" ph="select * fro... student" />
           </folding>
         </state>
@@ -411,7 +386,7 @@
         <state relative-caret-position="396">
           <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding>
-            <element signature="e#118#141#0#PHP" expanded="true" />
+            <element signature="e#118#141#0#PHP" expanded="false" />
             <marker date="1521811715417" expanded="true" signature="1122:1143" ph="select * fro... student" />
           </folding>
         </state>
@@ -656,7 +631,7 @@
         <state relative-caret-position="774">
           <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
           <folding>
-            <element signature="e#118#141#0#PHP" expanded="true" />
+            <element signature="e#118#141#0#PHP" expanded="false" />
             <marker date="1521811715417" expanded="true" signature="1122:1143" ph="select * fro... student" />
           </folding>
         </state>
