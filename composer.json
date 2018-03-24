@@ -1,0 +1,28 @@
+{
+    "name": "guo/git",
+    "description": "hello world",
+    "type": "ptoject",
+    "authors": [
+        {
+            "name": "leon",
+            "email": "466425724@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "files":[
+            "system/helper.php"
+        ],
+        "psr-4":{
+            "hd\\":"hd",
+            "app\\":"app",
+            "system\\":"system"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
